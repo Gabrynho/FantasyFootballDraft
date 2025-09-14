@@ -1,109 +1,109 @@
-player,team,team_strength,team_std_dev,position_role,price,PPM,std_dev_PPM,final_PPM,final_seasonal_points
-Archie Gray,Tottenham,140.64,16.29,DF,11.6,8.67,3.01,3.816,145.0
-Kieran Trippier,Newcastle Utd,147.38,16.29,DF,15.4,10.721,3.01,5.224,198.5
-Yukinari Sugawara,Southampton,119.78,16.29,DF,11.3,8.073,3.01,5.632,214.0
-Ashley Young,Everton,130.74,16.29,DF,8.1,7.336,3.01,6.829,259.5
-Michael Keane,Everton,130.74,16.29,DF,4.0,1.5,3.01,3.803,144.5
-Leif Davis,Ipswich Town,108.51,16.29,DF,16.4,12.965,3.01,9.013,342.5
-Sammie Szmodics,Ipswich Town,108.51,16.29,FW,19.7,17.243,4.814,4.947,188.0
-Bukayo Saka,Arsenal,146.34,16.29,FW,25.0,22.437,4.814,11.803,448.5
-Christopher Nkunku,Chelsea,133.74,16.29,FW,4.0,2.475,4.814,4.789,182.0
-Erling Haaland,Manchester City,138.66,16.29,FW,25.0,21.774,4.814,17.316,658.0
-Aaron Ramsdale,Southampton,119.78,16.29,GK,4.4,0.619,2.887,5.184,197.0
-Alex McCarthy,Southampton,119.78,16.29,GK,4.0,0.578,2.887,0.618,23.5
-Phil Foden,Manchester City,138.66,16.29,MF,25.0,20.751,3.8,9.934,377.5
-Amad Diallo,Manchester Utd,135.67,16.29,MF,4.0,1.612,3.8,11.013,418.5
-Bruno Fernandes,Manchester Utd,135.67,16.29,MF,24.0,19.591,3.8,18.684,710.0
-Joe Willock,Newcastle Utd,147.38,16.29,MF,4.0,1.875,3.8,4.079,155.0
-Matt O'Riley,Brighton,131.37,16.29,MF,19.0,19.648,3.8,5.316,202.0
-Cole Palmer,Chelsea,133.74,16.29,MF,25.0,22.727,3.8,20.882,793.5
-Óscar de Marcos,Athletic Club,139.41,14.48,DF,13.3,8.814,2.588,5.276,200.5
-Romain Perraud,Betis,122.82,14.48,DF,4.0,2.022,2.588,7.132,271.0
-Omar El Hilali,Espanyol,120.54,14.48,DF,12.7,7.35,2.588,9.632,366.0
-Daley Blind,Girona,128.84,14.48,DF,12.3,7.419,2.588,7.382,280.5
-Benito Ramírez,Las Palmas,125.49,14.48,DF,4.0,2.562,2.588,1.987,75.5
-Juan Herzog,Las Palmas,125.49,14.48,DF,4.0,1.712,2.588,3.539,134.5
-Alexander Sørloth,Atlético Madrid,148.89,14.48,FW,25.0,20.209,4.635,13.658,519.0
-Robert Lewandowski,Barcelona,169.62,14.48,FW,22.4,18.389,4.635,19.118,726.5
-Iago Aspas,Celta Vigo,134.05,14.48,FW,18.2,15.197,4.635,10.763,409.0
-Kylian Mbappé,Real Madrid,157.26,14.48,FW,25.0,23.7,4.635,23.487,892.5
-Unai Simón,Athletic Club,139.41,14.48,GK,16.3,11.384,2.752,6.355,241.5
-Álvaro Fernández,Sevilla,125.39,14.48,GK,16.2,11.049,2.752,1.5,57.0
-Arda Güler,Real Madrid,157.26,14.48,MF,4.0,3.6,2.952,7.711,293.0
-Jude Bellingham,Real Madrid,157.26,14.48,MF,24.8,18.665,2.952,13.513,513.5
-Peque,Sevilla,125.39,14.48,MF,22.7,16.671,2.952,3.974,151.0
-Luka Modrić,Real Madrid,157.26,14.48,MF,8.8,7.738,2.952,8.355,317.5
-Dani Rodríguez,Mallorca,122.99,14.48,MF,12.0,9.478,2.952,10.237,389.0
-Jhon Solis,Girona,128.84,14.48,MF,4.0,1.738,2.952,1.987,75.5
-Yunis Abdelhamid,Saint-Étienne,101.37,11.01,DF,12.4,9.573,2.514,2.289,87.0
-Tom Louchet,Nice,142.12,11.01,DF,4.0,2.088,2.514,4.289,163.0
-Dante,Nice,142.12,11.01,DF,7.9,7.143,2.514,4.263,162.0
-Paul Joly,Auxerre,112.5,11.01,DF,16.7,11.207,2.514,5.605,213.0
-Ali Abdi,Nice,142.12,11.01,DF,20.9,16.73,2.514,8.263,314.0
-Jordan Teze,Monaco,129.34,11.01,DF,9.9,5.852,2.514,2.447,93.0
-Désiré Doué,Paris S-G,140.91,11.01,FW,14.3,10.004,4.06,11.066,420.5
-Farid El Melali,Angers,108.46,11.01,FW,18.1,11.274,4.06,8.592,326.5
-Florian Sotoca,Lens,116.72,11.01,FW,21.8,14.147,4.06,7.224,274.5
-Malick Fofana,Lyon,121.42,11.01,FW,10.2,5.971,4.06,8.184,311.0
-Gautier Larsonneur,Saint-Étienne,101.37,11.01,GK,13.5,8.908,2.441,5.908,224.5
-Lucas Perri,Lyon,121.42,11.01,GK,13.9,9.895,2.441,7.737,294.0
-Téji Savanier,Montpellier,105.41,11.01,MF,22.8,18.734,3.218,11.816,449.0
-Gaëtan Perrin,Auxerre,112.5,11.01,MF,19.2,13.528,3.218,15.934,605.5
-Pierrick Capelle,Angers,108.46,11.01,MF,9.7,9.605,3.218,2.053,78.0
-Himad Abdelli,Angers,108.46,11.01,MF,18.6,13.363,3.218,10.434,396.5
-João Neves,Paris S-G,140.91,11.01,MF,11.7,9.068,3.218,9.355,355.5
-Eliesse Ben Seghir,Monaco,129.34,11.01,MF,4.0,2.838,3.218,11.092,421.5
-Kilian Fischer,Wolfsburg,128.34,16.77,DF,4.0,1.174,2.67,7.588,258.0
-Tom Rothe,Union Berlin,125.84,16.77,DF,11.0,9.234,2.67,8.221,279.5
-Christopher Trimmel,Union Berlin,125.84,16.77,DF,8.6,7.319,2.67,7.25,246.5
-Gerrit Holtmann,Bochum,118.62,16.77,DF,4.0,1.505,2.67,6.912,235.0
-Lutsharel Geertruida,RB Leipzig,137.24,16.77,DF,11.8,8.642,2.67,5.235,178.0
-Álex Grimaldo,Leverkusen,150.01,16.77,DF,22.4,21.324,2.67,12.588,428.0
-Loïs Openda,RB Leipzig,137.24,16.77,FW,25.0,22.714,4.755,12.25,416.5
-Marco Grüll,Werder Bremen,140.91,16.77,FW,25.0,24.496,4.755,7.206,245.0
-Harry Kane,Bayern Munich,175.53,16.77,FW,25.0,31.207,4.755,24.324,827.0
-Serge Gnabry,Bayern Munich,175.53,16.77,FW,4.0,3.353,4.755,8.824,300.0
-Matej Kovar,Leverkusen,150.01,16.77,GK,4.0,0.503,2.878,1.691,57.5
-Thomas Dähne,Holstein Kiel,129.16,16.77,GK,4.0,0.514,2.878,1.691,57.5
-Paul Wanner,Heidenheim,127.4,16.77,MF,10.6,9.351,3.495,8.368,284.5
-Kevin Stöger,Gladbach,142.41,16.77,MF,25.0,21.364,3.495,9.985,339.5
-Can Uzun,Eint Frankfurt,152.49,16.77,MF,17.5,19.897,3.495,5.382,183.0
-Anthony Losilla,Bochum,118.62,16.77,MF,9.2,8.385,3.495,3.588,122.0
-László Bénes,Union Berlin,125.84,16.77,MF,16.6,13.679,3.495,3.985,135.5
-Andrej Kramarić,Hoffenheim,129.62,16.77,MF,21.6,19.394,3.495,17.103,581.5
-Joaquin Seys,Club Brugge,126.42,11.07,DF,14.4,7.783,2.137,6.987,272.5
-Tiago Araújo,Gent,100.92,11.07,DF,12.5,6.975,2.137,2.782,108.5
-Matisse Samoise,Gent,100.92,11.07,DF,21.3,11.227,2.137,4.449,173.5
-Rafik Belghali,Mechelen,108.47,11.07,DF,4.0,1.742,2.137,5.744,224.0
-Hasan Kuruçay,OH Leuven,90.37,11.07,DF,10.9,6.178,2.137,3.449,134.5
-Toby Alderweireld,Antwerp,108.96,11.07,DF,14.8,9.181,2.137,6.692,261.0
-Kévin Denkey,Cercle Brugge,108.01,11.07,FW,25.0,16.087,2.967,7.346,286.5
-Christos Tzolis,Club Brugge,126.42,11.07,FW,16.0,15.903,2.967,12.051,470.0
-Noah Adedeji,Genk,118.85,11.07,FW,14.9,9.029,2.967,4.667,182.0
-Anders Dreyer,Anderlecht,111.6,11.07,FW,25.0,15.669,2.967,6.833,266.5
-Mike Penders,Genk,118.85,11.07,GK,12.0,8.436,2.752,2.449,95.5
-Davor Matijas,Beerschot,90.88,11.07,GK,12.7,7.17,2.752,1.551,60.5
-Ardon Jashari,Club Brugge,126.42,11.07,MF,18.0,10.735,2.675,6.769,264.0
-Konstantinos Karetsas,Genk,118.85,11.07,MF,13.4,10.032,2.675,6.103,238.0
-Nikolas Sattlberger,Genk,118.85,11.07,MF,12.5,6.412,2.675,3.628,141.5
-Tjaronn Chery,Antwerp,108.96,11.07,MF,6.5,4.859,2.675,14.628,570.5
-Sven Kums,Gent,100.92,11.07,MF,11.8,7.808,2.675,3.885,151.5
-Mahamadou Doumbia,Antwerp,108.96,11.07,MF,4.0,1.827,2.675,6.115,238.5
-Juan Cuadrado,Atalanta,151.51,14.58,DF,4.0,1.093,2.591,4.013,152.5
-Mats Hummels,Roma,136.91,14.58,DF,9.7,6.626,2.591,3.105,118.0
-Giovanni Leoni,Parma,125.36,14.58,DF,5.7,2.165,2.591,2.842,108.0
-Robin Gosens,Fiorentina,127.83,14.58,DF,20.3,13.735,2.591,10.316,392.0
-Patrick Dorgu,Lecce,115.29,14.58,DF,10.2,6.452,2.591,7.803,296.5
-Francesco Acerbi,Inter,152.2,14.58,DF,12.0,7.461,2.591,4.868,185.0
-Artem Dovbyk,Roma,136.91,14.58,FW,19.9,15.535,3.881,10.697,406.5
-Lautaro Martínez,Inter,152.2,14.58,FW,25.0,19.397,3.881,13.039,495.5
-Albert Guðmundsson,Fiorentina,127.83,14.58,FW,25.0,17.7,3.881,6.934,263.5
-Nicolas Viola,Cagliari,120.11,14.58,FW,12.7,8.11,3.881,6.382,242.5
-Vanja Milinković-Savić,Torino,118.11,14.58,GK,14.4,11.025,3.119,10.211,388.0
-Michele Di Gregorio,Juventus,133.29,14.58,GK,16.1,10.911,3.119,8.329,316.5
-Milan Badelj,Genoa,115.49,14.58,MF,13.1,8.455,2.97,4.816,183.0
-Daniel Maldini,Monza,109.53,14.58,MF,4.2,3.454,2.97,5.697,216.5
-Jens Odgaard,Bologna,136.74,14.58,MF,4.0,2.44,2.97,8.658,329.0
-Matìas Soulé,Roma,136.91,14.58,MF,25.0,18.71,2.97,9.855,374.5
-Hakan Çalhanoğlu,Inter,152.2,14.58,MF,24.2,18.762,2.97,11.355,431.5
-Oier Zarraga,Udinese,122.62,14.58,MF,4.0,2.35,2.97,3.237,123.0
+player,team,team_strength,team_std_dev,position_role,price,PPM,std_dev_PPM,final_PPM,final_seasonal_points,League
+Archie Gray,Tottenham,140.64,16.29,DF,11.6,8.67,3.01,3.816,145.0,ENG-Premier League
+Kieran Trippier,Newcastle Utd,147.38,16.29,DF,15.4,10.721,3.01,5.224,198.5,ENG-Premier League
+Yukinari Sugawara,Southampton,119.78,16.29,DF,11.3,8.073,3.01,5.632,214.0,ENG-Premier League
+Ashley Young,Everton,130.74,16.29,DF,8.1,7.336,3.01,6.829,259.5,ENG-Premier League
+Michael Keane,Everton,130.74,16.29,DF,4.0,1.5,3.01,3.803,144.5,ENG-Premier League
+Leif Davis,Ipswich Town,108.51,16.29,DF,16.4,12.965,3.01,9.013,342.5,ENG-Premier League
+Sammie Szmodics,Ipswich Town,108.51,16.29,FW,19.7,17.243,4.814,4.947,188.0,ENG-Premier League
+Bukayo Saka,Arsenal,146.34,16.29,FW,25.0,22.437,4.814,11.803,448.5,ENG-Premier League
+Christopher Nkunku,Chelsea,133.74,16.29,FW,4.0,2.475,4.814,4.789,182.0,ENG-Premier League
+Erling Haaland,Manchester City,138.66,16.29,FW,25.0,21.774,4.814,17.316,658.0,ENG-Premier League
+Aaron Ramsdale,Southampton,119.78,16.29,GK,4.4,0.619,2.887,5.184,197.0,ENG-Premier League
+Alex McCarthy,Southampton,119.78,16.29,GK,4.0,0.578,2.887,0.618,23.5,ENG-Premier League
+Phil Foden,Manchester City,138.66,16.29,MF,25.0,20.751,3.8,9.934,377.5,ENG-Premier League
+Amad Diallo,Manchester Utd,135.67,16.29,MF,4.0,1.612,3.8,11.013,418.5,ENG-Premier League
+Bruno Fernandes,Manchester Utd,135.67,16.29,MF,24.0,19.591,3.8,18.684,710.0,ENG-Premier League
+Joe Willock,Newcastle Utd,147.38,16.29,MF,4.0,1.875,3.8,4.079,155.0,ENG-Premier League
+Matt O'Riley,Brighton,131.37,16.29,MF,19.0,19.648,3.8,5.316,202.0,ENG-Premier League
+Cole Palmer,Chelsea,133.74,16.29,MF,25.0,22.727,3.8,20.882,793.5,ENG-Premier League
+Óscar de Marcos,Athletic Club,139.41,14.48,DF,13.3,8.814,2.588,5.276,200.5,ESP-La Liga
+Romain Perraud,Betis,122.82,14.48,DF,4.0,2.022,2.588,7.132,271.0,ESP-La Liga
+Omar El Hilali,Espanyol,120.54,14.48,DF,12.7,7.35,2.588,9.632,366.0,ESP-La Liga
+Daley Blind,Girona,128.84,14.48,DF,12.3,7.419,2.588,7.382,280.5,ESP-La Liga
+Benito Ramírez,Las Palmas,125.49,14.48,DF,4.0,2.562,2.588,1.987,75.5,ESP-La Liga
+Juan Herzog,Las Palmas,125.49,14.48,DF,4.0,1.712,2.588,3.539,134.5,ESP-La Liga
+Alexander Sørloth,Atlético Madrid,148.89,14.48,FW,25.0,20.209,4.635,13.658,519.0,ESP-La Liga
+Robert Lewandowski,Barcelona,169.62,14.48,FW,22.4,18.389,4.635,19.118,726.5,ESP-La Liga
+Iago Aspas,Celta Vigo,134.05,14.48,FW,18.2,15.197,4.635,10.763,409.0,ESP-La Liga
+Kylian Mbappé,Real Madrid,157.26,14.48,FW,25.0,23.7,4.635,23.487,892.5,ESP-La Liga
+Unai Simón,Athletic Club,139.41,14.48,GK,16.3,11.384,2.752,6.355,241.5,ESP-La Liga
+Álvaro Fernández,Sevilla,125.39,14.48,GK,16.2,11.049,2.752,1.5,57.0,ESP-La Liga
+Arda Güler,Real Madrid,157.26,14.48,MF,4.0,3.6,2.952,7.711,293.0,ESP-La Liga
+Jude Bellingham,Real Madrid,157.26,14.48,MF,24.8,18.665,2.952,13.513,513.5,ESP-La Liga
+Peque,Sevilla,125.39,14.48,MF,22.7,16.671,2.952,3.974,151.0,ESP-La Liga
+Luka Modrić,Real Madrid,157.26,14.48,MF,8.8,7.738,2.952,8.355,317.5,ESP-La Liga
+Dani Rodríguez,Mallorca,122.99,14.48,MF,12.0,9.478,2.952,10.237,389.0,ESP-La Liga
+Jhon Solis,Girona,128.84,14.48,MF,4.0,1.738,2.952,1.987,75.5,ESP-La Liga
+Yunis Abdelhamid,Saint-Étienne,101.37,11.01,DF,12.4,9.573,2.514,2.289,87.0,FRA-Ligue 1
+Tom Louchet,Nice,142.12,11.01,DF,4.0,2.088,2.514,4.289,163.0,FRA-Ligue 1
+Dante,Nice,142.12,11.01,DF,7.9,7.143,2.514,4.263,162.0,FRA-Ligue 1
+Paul Joly,Auxerre,112.5,11.01,DF,16.7,11.207,2.514,5.605,213.0,FRA-Ligue 1
+Ali Abdi,Nice,142.12,11.01,DF,20.9,16.73,2.514,8.263,314.0,FRA-Ligue 1
+Jordan Teze,Monaco,129.34,11.01,DF,9.9,5.852,2.514,2.447,93.0,FRA-Ligue 1
+Désiré Doué,Paris S-G,140.91,11.01,FW,14.3,10.004,4.06,11.066,420.5,FRA-Ligue 1
+Farid El Melali,Angers,108.46,11.01,FW,18.1,11.274,4.06,8.592,326.5,FRA-Ligue 1
+Florian Sotoca,Lens,116.72,11.01,FW,21.8,14.147,4.06,7.224,274.5,FRA-Ligue 1
+Malick Fofana,Lyon,121.42,11.01,FW,10.2,5.971,4.06,8.184,311.0,FRA-Ligue 1
+Gautier Larsonneur,Saint-Étienne,101.37,11.01,GK,13.5,8.908,2.441,5.908,224.5,FRA-Ligue 1
+Lucas Perri,Lyon,121.42,11.01,GK,13.9,9.895,2.441,7.737,294.0,FRA-Ligue 1
+Téji Savanier,Montpellier,105.41,11.01,MF,22.8,18.734,3.218,11.816,449.0,FRA-Ligue 1
+Gaëtan Perrin,Auxerre,112.5,11.01,MF,19.2,13.528,3.218,15.934,605.5,FRA-Ligue 1
+Pierrick Capelle,Angers,108.46,11.01,MF,9.7,9.605,3.218,2.053,78.0,FRA-Ligue 1
+Himad Abdelli,Angers,108.46,11.01,MF,18.6,13.363,3.218,10.434,396.5,FRA-Ligue 1
+João Neves,Paris S-G,140.91,11.01,MF,11.7,9.068,3.218,9.355,355.5,FRA-Ligue 1
+Eliesse Ben Seghir,Monaco,129.34,11.01,MF,4.0,2.838,3.218,11.092,421.5,FRA-Ligue 1
+Kilian Fischer,Wolfsburg,128.34,16.77,DF,4.0,1.174,2.67,7.588,258.0,GER-Bundesliga
+Tom Rothe,Union Berlin,125.84,16.77,DF,11.0,9.234,2.67,8.221,279.5,GER-Bundesliga
+Christopher Trimmel,Union Berlin,125.84,16.77,DF,8.6,7.319,2.67,7.25,246.5,GER-Bundesliga
+Gerrit Holtmann,Bochum,118.62,16.77,DF,4.0,1.505,2.67,6.912,235.0,GER-Bundesliga
+Lutsharel Geertruida,RB Leipzig,137.24,16.77,DF,11.8,8.642,2.67,5.235,178.0,GER-Bundesliga
+Álex Grimaldo,Leverkusen,150.01,16.77,DF,22.4,21.324,2.67,12.588,428.0,GER-Bundesliga
+Loïs Openda,RB Leipzig,137.24,16.77,FW,25.0,22.714,4.755,12.25,416.5,GER-Bundesliga
+Marco Grüll,Werder Bremen,140.91,16.77,FW,25.0,24.496,4.755,7.206,245.0,GER-Bundesliga
+Harry Kane,Bayern Munich,175.53,16.77,FW,25.0,31.207,4.755,24.324,827.0,GER-Bundesliga
+Serge Gnabry,Bayern Munich,175.53,16.77,FW,4.0,3.353,4.755,8.824,300.0,GER-Bundesliga
+Matej Kovar,Leverkusen,150.01,16.77,GK,4.0,0.503,2.878,1.691,57.5,GER-Bundesliga
+Thomas Dähne,Holstein Kiel,129.16,16.77,GK,4.0,0.514,2.878,1.691,57.5,GER-Bundesliga
+Paul Wanner,Heidenheim,127.4,16.77,MF,10.6,9.351,3.495,8.368,284.5,GER-Bundesliga
+Kevin Stöger,Gladbach,142.41,16.77,MF,25.0,21.364,3.495,9.985,339.5,GER-Bundesliga
+Can Uzun,Eint Frankfurt,152.49,16.77,MF,17.5,19.897,3.495,5.382,183.0,GER-Bundesliga
+Anthony Losilla,Bochum,118.62,16.77,MF,9.2,8.385,3.495,3.588,122.0,GER-Bundesliga
+László Bénes,Union Berlin,125.84,16.77,MF,16.6,13.679,3.495,3.985,135.5,GER-Bundesliga
+Andrej Kramarić,Hoffenheim,129.62,16.77,MF,21.6,19.394,3.495,17.103,581.5,GER-Bundesliga
+Joaquin Seys,Club Brugge,126.42,11.07,DF,14.4,7.783,2.137,6.987,272.5,BEL-Jupiler Pro League
+Tiago Araújo,Gent,100.92,11.07,DF,12.5,6.975,2.137,2.782,108.5,BEL-Jupiler Pro League
+Matisse Samoise,Gent,100.92,11.07,DF,21.3,11.227,2.137,4.449,173.5,BEL-Jupiler Pro League
+Rafik Belghali,Mechelen,108.47,11.07,DF,4.0,1.742,2.137,5.744,224.0,BEL-Jupiler Pro League
+Hasan Kuruçay,OH Leuven,90.37,11.07,DF,10.9,6.178,2.137,3.449,134.5,BEL-Jupiler Pro League
+Toby Alderweireld,Antwerp,108.96,11.07,DF,14.8,9.181,2.137,6.692,261.0,BEL-Jupiler Pro League
+Kévin Denkey,Cercle Brugge,108.01,11.07,FW,25.0,16.087,2.967,7.346,286.5,BEL-Jupiler Pro League
+Christos Tzolis,Club Brugge,126.42,11.07,FW,16.0,15.903,2.967,12.051,470.0,BEL-Jupiler Pro League
+Noah Adedeji,Genk,118.85,11.07,FW,14.9,9.029,2.967,4.667,182.0,BEL-Jupiler Pro League
+Anders Dreyer,Anderlecht,111.6,11.07,FW,25.0,15.669,2.967,6.833,266.5,BEL-Jupiler Pro League
+Mike Penders,Genk,118.85,11.07,GK,12.0,8.436,2.752,2.449,95.5,BEL-Jupiler Pro League
+Davor Matijas,Beerschot,95.47,11.07,GK,12.7,7.17,2.752,1.551,60.5,BEL-Jupiler Pro League
+Ardon Jashari,Club Brugge,126.42,11.07,MF,18.0,10.735,2.675,6.769,264.0,BEL-Jupiler Pro League
+Konstantinos Karetsas,Genk,118.85,11.07,MF,13.4,10.032,2.675,6.103,238.0,BEL-Jupiler Pro League
+Nikolas Sattlberger,Genk,118.85,11.07,MF,12.5,6.412,2.675,3.628,141.5,BEL-Jupiler Pro League
+Tjaronn Chery,Antwerp,108.96,11.07,MF,6.5,4.859,2.675,14.628,570.5,BEL-Jupiler Pro League
+Sven Kums,Gent,100.92,11.07,MF,11.8,7.808,2.675,3.885,151.5,BEL-Jupiler Pro League
+Mahamadou Doumbia,Antwerp,108.96,11.07,MF,4.0,1.827,2.675,6.115,238.5,BEL-Jupiler Pro League
+Juan Cuadrado,Atalanta,151.51,14.58,DF,4.0,1.093,2.591,4.013,152.5,ITA-Serie A
+Mats Hummels,Roma,136.91,14.58,DF,9.7,6.626,2.591,3.105,118.0,ITA-Serie A
+Giovanni Leoni,Parma,125.36,14.58,DF,5.7,2.165,2.591,2.842,108.0,ITA-Serie A
+Robin Gosens,Fiorentina,127.83,14.58,DF,20.3,13.735,2.591,10.316,392.0,ITA-Serie A
+Patrick Dorgu,Lecce,115.29,14.58,DF,10.2,6.452,2.591,7.803,296.5,ITA-Serie A
+Francesco Acerbi,Inter,152.2,14.58,DF,12.0,7.461,2.591,4.868,185.0,ITA-Serie A
+Artem Dovbyk,Roma,136.91,14.58,FW,19.9,15.535,3.881,10.697,406.5,ITA-Serie A
+Lautaro Martínez,Inter,152.2,14.58,FW,25.0,19.397,3.881,13.039,495.5,ITA-Serie A
+Albert Guðmundsson,Fiorentina,127.83,14.58,FW,25.0,17.7,3.881,6.934,263.5,ITA-Serie A
+Nicolas Viola,Cagliari,120.11,14.58,FW,12.7,8.11,3.881,6.382,242.5,ITA-Serie A
+Vanja Milinković-Savić,Torino,118.11,14.58,GK,14.4,11.025,3.119,10.211,388.0,ITA-Serie A
+Michele Di Gregorio,Juventus,133.29,14.58,GK,16.1,10.911,3.119,8.329,316.5,ITA-Serie A
+Milan Badelj,Genoa,115.49,14.58,MF,13.1,8.455,2.97,4.816,183.0,ITA-Serie A
+Daniel Maldini,Monza,109.53,14.58,MF,4.2,3.454,2.97,5.697,216.5,ITA-Serie A
+Jens Odgaard,Bologna,136.74,14.58,MF,4.0,2.44,2.97,8.658,329.0,ITA-Serie A
+Matìas Soulé,Roma,136.91,14.58,MF,25.0,18.71,2.97,9.855,374.5,ITA-Serie A
+Hakan Çalhanoğlu,Inter,152.2,14.58,MF,24.2,18.762,2.97,11.355,431.5,ITA-Serie A
+Oier Zarraga,Udinese,122.62,14.58,MF,4.0,2.35,2.97,3.237,123.0,ITA-Serie A
